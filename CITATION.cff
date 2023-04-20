@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Uhlmann"
+  given-names: "Yannick"
+title: "SERAFIN - Single-Ended Operational Amplifier Characterization"
+version: 0.1
+date-released: 2023-04-20
+url: "https://github.com/AugustUnderground/serafin"
